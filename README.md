@@ -1,5 +1,5 @@
 Hi, I'm Aniket Mishra 👋
-Software Engineer focused on **QEA Automation and test framework development**. Skilled in Java, JavaScript, Selenium, Playwright, TestNG, Cucumber, SQL, and REST API testing. Experienced in delivering automation solutions for BFS and Insurance projects. Always learning, building, and exploring new technologies.
+Software Engineer focused on **AI-Powered QEA Automation and test framework development**. Skilled in Java, JavaScript, Selenium, Playwright, TestNG, Cucumber, SQL, and REST API testing. Experienced in delivering automation solutions for BFS and Insurance projects. Always learning, building, and exploring new technologies.
 
 <!--
 **akcodes-27/akcodes-27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
